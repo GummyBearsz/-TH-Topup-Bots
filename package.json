@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@discordjs/rest": "^1.0.1",
+    "@fortune-inc/tw-voucher": "^1.0.9",
+    "discord-api-types": "^0.37.2",
+    "discord.js": "^14.0.3",
+    "express": "^4.18.1"
+  }
+}
